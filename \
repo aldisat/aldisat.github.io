@@ -34,11 +34,6 @@
 				border:1px dashed;
 			}
 
-			.tulisancopyright {
-				font-size: 14px;
-				text-align: center;
-			}
-
 		</style>
 	</head>
 	<body>
@@ -50,9 +45,7 @@
 					<a href="https://twitter.com/aldi__satria" style="background-color:skyblue">Twitter</a>
 					<a href="https://github.com/acvn" style="background-color:black; color:white">Github</a>
 			</div>
-			<div class="copyright">
-				<p class="tulisancopyright">Copyright &copy; 2021.</p>
-			</div>
+			<div class="copyright">Copyright © 2021 Apple Inc. All rights reserved.</div>
 		</div>
 
 	</body>
