@@ -4,15 +4,18 @@
 
 		<title>ALDI SATRIA</title>
 		<style>
+
 			body {
-				font-family: "Monaco", monospace;
+				font-family: 'Courier New', monospace;
 			}
 
-			.tengah {
-				background-color:yellow;
-				padding:10px;
-				border:1px solid;
+			a {
+				text-decoration: none;
+				display: block;
+				color:black;
+			}
 
+			.pembungkus {
 				/*menengahkan pada halaman*/
 				position:absolute;
 				top:0;
@@ -22,27 +25,23 @@
 				margin:auto;
 				width:max-content;
 				height:max-content;
-			}
 
-			.pilihan {
-				/*border:1px solid;*/
-				margin:5px;
-				width:max-content;
-				/*background-color:white;*/
+				/*gayanya*/
+				background-color:yellow;
+				padding:2rem;
+				border:1px dashed;
 			}
 
 		</style>
 	</head>
 	<body>
-		 
-		  <div class="tengah">
-				<div>Hello I'm Aldi!</div> 
-				<div class="pilihan">Projects</div>
-				<div class="pilihan">Blog</div>
-				<div class="pilihan">Book</div>
-				<div class="pilihan">About me</div>
-			</div>
-			
+		
+		<div class="pembungkus">
+			<div><b>Hi, I'm Aldi!</b></div> 
+				<a href="https://www.instagram.com/aldi___satria/" style="background-color:pink">Instagram</a>
+				<a href="https://twitter.com/aldi__satria" style="background-color:skyblue">Twitter</a>
+				<a href="https://github.com/acvn" style="background-color:black; color:white">Github</a>
+		</div>
 
 	</body>
 </html> 
