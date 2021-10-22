@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hackthebox - Don't Overreact</h1>
+
+
+<h2>Langkah-langkah</h2>
+		
+<ol>
+	<li>unzip Don't_Overreact.zip</li>
+	<li>apktool d -f -r app-release.apk</li>
+	<li>cd app-release/assets/</li>
+	<li>cat index.android.bundle, cari base64</li>
+	<li>echo "SF***************************************30=" | base64 -d</li>
+</ol>
+
+</body>
+</html>
