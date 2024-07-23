@@ -21,7 +21,7 @@
 title: Aldi Satria
 email: aldisatria@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hacking, Bug bounty hunting, and Cybersecurity
+  Hacking, Bug bounty hunting, & Cybersecurity
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aldisat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aldisatx
