@@ -26,11 +26,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aldisat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aldisatx
 github_username:  aldisat
+instagram_username: aldi___satria
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-assets
+sass:
+  style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
