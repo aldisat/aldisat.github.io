@@ -34,8 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-assets
 sass:
-  load_paths:
-    - _sass
+  style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
