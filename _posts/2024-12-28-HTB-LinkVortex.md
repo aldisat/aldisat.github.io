@@ -4,4 +4,4 @@ title:  "Hackthebox - LinkVortex"
 date:   2024-12-28 11:05:31 +0700
 categories: jekyll update
 ---
-![0f75c4c0c4d111ef9d11a1593837a84a map](https://github.com/user-attachments/assets/ec4aceca-5728-4b24-a244-4d3177ff8ddc)
+![4facc350c8db11efb884e1a4c9d79ced map](https://github.com/user-attachments/assets/eca251d1-58dd-41c7-a671-459aa1a2e0b1)
