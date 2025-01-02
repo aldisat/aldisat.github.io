@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Hackthebox - LinkVortex"
+date:   2024-12-28 11:05:31 +0700
+categories: jekyll update
+---
+![c20ad740c8de11ef9d445f7ac3b4e36a map](https://github.com/user-attachments/assets/a6b7411a-4fd7-4c56-89a2-edc90b057e52)
