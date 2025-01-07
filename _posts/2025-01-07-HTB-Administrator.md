@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hackthebox - UnderPass"
+title:  "Hackthebox - Administrator"
 date:   2025-01-07 11:19:31 +0700
 categories: jekyll update
 ---
