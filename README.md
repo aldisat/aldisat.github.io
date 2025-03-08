@@ -5,7 +5,7 @@
 ## Publication
 [The Dashboard of IBM Sterling B2B Integrator is Vulnerable to Cross-Site Scripting (CVE-2024-47103, CVE-2024-49807, CVE-204-40696)](https://www.ibm.com/support/pages/node/7182011)
 
-## Writeup
+## Capture The Flag
 - [Hackthebox (Hard) - Checker](https://github.com/aldisat/hekdebok/blob/main/HTB%20Hard%20-%20Checker/Hackthebox%20-%20Checker.md)
 - [Hackthebox (Medium) - Cypher](https://github.com/aldisat/hekdebok/blob/main/HTB%20Medium%20-%20Cypher/Hackthebox%20-%20Cypher.md)
 
