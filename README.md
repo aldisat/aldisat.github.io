@@ -11,7 +11,7 @@
 ## Bug Bounty
 [aldis_satria](https://hackerone.com/aldis_satria?type=user)
 
-## Work
+## Experience
 1. **Snipeyes, Penetration Tester (2021 - Present)**
 > Conducting penetration testing on web applications, APIs, Android, iOS, and network infrastructure to identify security vulnerabilities. Performing security assessments, exploit development, and detailed reporting to help clients enhance their cybersecurity posture.
 2. **MII, Security Operation Center (2019 - 2021)**
