@@ -6,7 +6,7 @@
 [The Dashboard of IBM Sterling B2B Integrator is Vulnerable to Cross-Site Scripting (CVE-2024-47103, CVE-2024-49807, CVE-204-40696)](https://www.ibm.com/support/pages/node/7182011)
 
 ## Apreciation
-<img src="https://github.com/user-attachments/assets/27efdb69-34b8-49a1-b1f8-a5ccbc7a13d1" width=400>>
+<img src="https://github.com/user-attachments/assets/27efdb69-34b8-49a1-b1f8-a5ccbc7a13d1" width=400>
 
 ## Bug Bounty
 [aldis_satria](https://hackerone.com/aldis_satria?type=user)
