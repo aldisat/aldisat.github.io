@@ -8,9 +8,8 @@
 ## Apreciation
 <img src="https://github.com/user-attachments/assets/27efdb69-34b8-49a1-b1f8-a5ccbc7a13d1" width=400>>
 
-## Capture The Flag
-
 ## Bug Bounty
+[aldis_satria](https://hackerone.com/aldis_satria?type=user)
 
 ## Work
 1. **Snipeyes, Penetration Tester (2021 - Present)**
