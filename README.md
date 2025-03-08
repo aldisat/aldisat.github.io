@@ -7,6 +7,7 @@
 
 ## Capture the flag
 - [Hackthebox (Hard) - Checker](https://github.com/aldisat/hekdebok/blob/main/HTB%20Hard%20-%20Checker/Hackthebox%20-%20Checker.md)
+- [Hackthebox (Easy) - Cypher](https://github.com/aldisat/hekdebok/blob/main/HTB%20Hard%20-%20Cypher/Hackthebox%20-%20Cypher.md)
 
 ## Apreciation
 <img src="https://github.com/user-attachments/assets/27efdb69-34b8-49a1-b1f8-a5ccbc7a13d1" width=400>
