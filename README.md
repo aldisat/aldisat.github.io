@@ -8,10 +8,16 @@
 ## Apreciation
 <img src="https://github.com/user-attachments/assets/27efdb69-34b8-49a1-b1f8-a5ccbc7a13d1" width=400>>
 
+## Capture The Flag
+
+## Bug Bounty
+
 ## Work
-1. **Snipeyes**, Penetration Tester (2021 - Present)
-> Conducted comprehensive penetration testing on web applications, networks, and internal systems to identify vulnerabilities. Developed detailed reports with remediation strategies for clients. Utilized various security tools and manual testing techniques to simulate real-world attack scenarios.
-2. **MII**, Security Operation Center (2019 - 2021)
-> Monitored and analyzed security events to detect and respond to potential threats. Conducted threat intelligence research and incident investigations. Assisted in implementing security measures and optimizing SOC workflows to enhance threat detection and response capabilities.
+1. Snipeyes, Penetration Tester (2021 - Present)
+> Conducting penetration testing on web applications, APIs, Android, iOS, and network infrastructure to identify security vulnerabilities. Performing security assessments, exploit development, and detailed reporting to help clients enhance their cybersecurity posture.
+2. MII, Security Operation Center (2019 - 2021)
+> Monitored and analyzed security incidents for the MIND ID Xplorer project using Microsoft Sentinel SIEM. Investigated threats, performed incident response, and implemented security measures to strengthen the organization’s defense against cyberattacks.
+3. Sisindokom, Network Engineer (2018)
+> Worked on the WiFi Access project for the Asian Games 2018 in Palembang and Jakarta. Designed, deployed, and optimized wireless network infrastructure to ensure seamless connectivity for the event.
 
 
