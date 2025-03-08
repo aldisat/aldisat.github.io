@@ -11,7 +11,7 @@
 
 ## Bug Bounty
 |No|Vulnerability|Count|
-|---|---|---|
+|:---|:---|:---|
 |1|Information Disclosure|4|
 
 ## Apreciation
