@@ -9,11 +9,11 @@
 <img src="https://github.com/user-attachments/assets/27efdb69-34b8-49a1-b1f8-a5ccbc7a13d1" width=400>
 
 ## Experience
-1. **Snipeyes, Penetration Tester (2021 - Present)**
+- **Snipeyes, Penetration Tester (2021 - Present)**
 > Conducting penetration testing on web applications, APIs, Android, iOS, and network infrastructure to identify security vulnerabilities. Performing security assessments, exploit development, and detailed reporting to help clients enhance their cybersecurity posture.
-2. **MII, Security Operation Center (2019 - 2021)**
+- **MII, Security Operation Center (2019 - 2021)**
 > Monitored and analyzed security incidents for the MIND ID Xplorer project using Microsoft Sentinel SIEM. Investigated threats, performed incident response, and implemented security measures to strengthen the organization’s defense against cyberattacks.
-3. **Sisindokom, Network Engineer (2018)**
+- **Sisindokom, Network Engineer (2018)**
 > Worked on the WiFi Access project for the Asian Games 2018 in Palembang and Jakarta. Designed, deployed, and optimized wireless network infrastructure to ensure seamless connectivity for the event.
 
 
