@@ -10,9 +10,7 @@
 - [Hackthebox (Medium) - Cypher](https://github.com/aldisat/hekdebok/blob/main/HTB%20Medium%20-%20Cypher/Hackthebox%20-%20Cypher.md)
 
 ## Bug Bounty
-|No  |Vulnerability         |Count|
-|:---|:---------------------|:----|
-|1   |Information Disclosure|4    |
+|asd|asd|
 
 ## Apreciation
 <img src="https://github.com/user-attachments/assets/27efdb69-34b8-49a1-b1f8-a5ccbc7a13d1" width=400>
