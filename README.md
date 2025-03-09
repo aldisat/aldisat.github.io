@@ -12,13 +12,6 @@
 ## 🙌 Apreciation
 <img src="https://github.com/user-attachments/assets/27efdb69-34b8-49a1-b1f8-a5ccbc7a13d1" width=400>
 
-## Bug Bounty
-<div markdown="1">
-| Header | Data |
-|--------|------|
-| Test   | 123  |
-</div>
-
 ## 💼 Experience
 - **Snipeyes, Penetration Tester (2021 - Present)**
 > Conducting penetration testing on web applications, APIs, Android, iOS, and network infrastructure to identify security vulnerabilities. Performing security assessments, exploit development, and detailed reporting to help clients enhance their cybersecurity posture.
