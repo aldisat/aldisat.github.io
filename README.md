@@ -8,10 +8,10 @@
 
 
 ## 🏁 Capture The Flag
-- [Hackthebox (Hard) - Checker](https://github.com/aldisat/hekdebok/blob/main/HTB%20Hard%20-%20Checker/Hackthebox%20-%20Checker.md)
-- [Hackthebox (Medium) - Cypher](https://github.com/aldisat/hekdebok/blob/main/HTB%20Medium%20-%20Cypher/Hackthebox%20-%20Cypher.md)
 - [Hackthebox (Easy) - Dog](https://github.com/aldisat/hekdebok/blob/main/HTB%20Easy%20-%20Dog/Hackthebox%20-%20Dog.md)
+- [Hackthebox (Medium) - Cypher](https://github.com/aldisat/hekdebok/blob/main/HTB%20Medium%20-%20Cypher/Hackthebox%20-%20Cypher.md)
 - [Hackthebox (Medium) - Thefrizz](https://github.com/aldisat/hekdebok/blob/main/HTB%20Medium%20-%20TheFrizz/Hackthebox%20-%20TheFrizz.md)
+- [Hackthebox (Hard) - Checker](https://github.com/aldisat/hekdebok/blob/main/HTB%20Hard%20-%20Checker/Hackthebox%20-%20Checker.md)
 - [PicoCTF (Easy) - n0s4n1ty 1](https://github.com/aldisat/hekdebok/blob/main/PicoCTF%20Practice%20(Easy)%20-%20n0s4n1ty%201/n0s4n1ty%201.md)
 
 
