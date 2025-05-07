@@ -12,7 +12,8 @@
 - [Hackthebox (Medium) - Cypher](https://github.com/aldisat/hekdebok/blob/main/HTB%20Medium%20-%20Cypher/Hackthebox%20-%20Cypher.md)
 - [Hackthebox (Medium) - Thefrizz](https://github.com/aldisat/hekdebok/blob/main/HTB%20Medium%20-%20TheFrizz/Hackthebox%20-%20TheFrizz.md)
 - [Hackthebox (Hard) - Checker](https://github.com/aldisat/hekdebok/blob/main/HTB%20Hard%20-%20Checker/Hackthebox%20-%20Checker.md)
-- [PicoCTF (Easy) - n0s4n1ty 1](https://github.com/aldisat/hekdebok/blob/main/PicoCTF%20Practice%20(Easy)%20-%20n0s4n1ty%201/n0s4n1ty%201.md)
+- [PicoCTF (Easy) - n0s4n1ty 1](https://github.com/aldisat/hekdebok/blob/main/PicoCTF%20(Easy)%20-%20n0s4n1ty%201/n0s4n1ty%201.md)
+- [PicoCTF (Easy) - Cookie Monster Secret Recipe](https://github.com/aldisat/hekdebok/blob/main/PicoCTF%20(Easy)%20-%20Cookie%20Monster%20Secret%20Recipe/Cookie%20Monster%20Secret%20Recipe.md)
 
 
 ## 🙌 Apreciation
