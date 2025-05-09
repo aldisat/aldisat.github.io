@@ -14,6 +14,7 @@
 - [Hackthebox (Hard) - Checker](https://github.com/aldisat/hekdebok/blob/main/HTB%20Hard%20-%20Checker/Hackthebox%20-%20Checker.md)
 - [PicoCTF (Easy) - n0s4n1ty 1](https://github.com/aldisat/hekdebok/blob/main/PicoCTF%20(Easy)%20-%20n0s4n1ty%201/n0s4n1ty%201.md)
 - [PicoCTF (Easy) - Cookie Monster Secret Recipe](https://github.com/aldisat/hekdebok/blob/main/PicoCTF%20(Easy)%20-%20Cookie%20Monster%20Secret%20Recipe/Cookie%20Monster%20Secret%20Recipe.md)
+- [PicoCTF (Medium) - SSTI2](https://github.com/aldisat/hekdebok/blob/main/PicoCTF%20(Medium)%20-%20SSTI2/SSTI2.md)
 
 
 ## 🙌 Apreciation
