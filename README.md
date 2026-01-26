@@ -29,3 +29,4 @@
 - [PicoCTF (Medium) - byp4ss3d](https://github.com/aldisat/hekdebok/blob/main/PicoCTF%20(Medium)%20-%20byp4ss3d/byp4ss3d.md)
 - [PicoCTF (Medium) - 3v@l](https://github.com/aldisat/hekdebok/blob/main/PicoCTF%20(Medium)%20-%203v%40l/3v%40l.md)
 - [PicoCTF (Medium) - SSTI2](https://github.com/aldisat/hekdebok/blob/main/PicoCTF%20(Medium)%20-%20SSTI2/SSTI2.md)
+- [PicoCTF (Medium) - Web Gauntlet](https://github.com/aldisat/hekdebok/blob/main/PicoCTF/Medium/Web%20Gauntlet/Web%20Gauntlet.md)
